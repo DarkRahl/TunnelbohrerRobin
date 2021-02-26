@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tunnelbohrer", "Tunnelbohrer\Tunnelbohrer.csproj", "{28E2F6BD-867D-45AD-B30A-BC27F24FB1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28E2F6BD-867D-45AD-B30A-BC27F24FB1AE}.Debug|x64.ActiveCfg = Debug|x64
+		{28E2F6BD-867D-45AD-B30A-BC27F24FB1AE}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6A00077-0C9A-4D31-8397-600988CE0178}
+	EndGlobalSection
+EndGlobal
